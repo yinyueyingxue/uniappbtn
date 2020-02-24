@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "navigation-custom": "/components/struggler-navigationCustom/navigation-custom"
+  }
+}
